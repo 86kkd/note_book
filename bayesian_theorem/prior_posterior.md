@@ -22,5 +22,5 @@ $$ P(A|B) = \frac{P(A)P(B|A)} {\sum_A P(A)P(B|A)}$$
 up to now we can use the probability of $P(A)$ and probability of $P(B|A)$ to estimate the probability of $P(A|B)$
 what we do is just estimate the probability of $A$ and probability $B$ present in $A$ then we can estimate the probability of $A$ given the probability of $B$ 
 
-finall we can write the following expression
+finall we can write the following expression  
 $$ posterior = \frac{prior \cdot likelihood} {evidence} $$ 
