@@ -8,7 +8,9 @@ $P(AB)$ is the probability of an incident that both $A$ and $B$ occurs,which is 
 Now we can give out class-conditional probability $P(A|B)$ which is the probability incident $A$ occurs in the case of $B$ happened  and it can be also called `likelihood`
 
 And here is a pictuer that intimately shows what class-conditional probability is.  
+
 ![image](Untitled.png)  
+
 the expression $P(A \cup B)$ is as same as the expression $P(AB)$
 
 according the following expression
