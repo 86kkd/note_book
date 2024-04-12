@@ -3,6 +3,7 @@
 
 # TODO list
 - [x] bayesian theorem
+- [ ] Boltzman exploration
 - [ ] dqn
 - [ ] ddpg
 - [ ] a2c
