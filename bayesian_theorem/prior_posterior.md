@@ -9,7 +9,7 @@ Now we can give out class-conditional probability $P(A|B)$ which is the probabil
 
 And here is a pictuer that intimately shows what class-conditional probability is.  
 
-![image](Untitled.png)  
+![image](bayesian_theorem/Untitled.png)  
 
 the expression $P(A \cup B)$ is as same as the expression $P(AB)$
 
