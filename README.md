@@ -4,6 +4,7 @@
 # TODO list
 - [x] bayesian theorem
 - [ ] Boltzman exploration
+- [ ] onpolicy vs offpolicy
 - [ ] dqn
 - [ ] ddpg
 - [ ] a2c
